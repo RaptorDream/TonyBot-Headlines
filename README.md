@@ -50,6 +50,7 @@ _*Media Displayer*_
 -IMGUR content API
 -Google search simply retrieving a link
 -Any Animes API
+-News API (https://newsapi.org/)
 
 
 _*Games*_:
