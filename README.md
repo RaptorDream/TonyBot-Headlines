@@ -51,7 +51,7 @@ _*Media Displayer*_
 -Google search simply retrieving a link
 -Any Animes API
 -News API (https://newsapi.org/)
-
+-WikiHowTo simply retrieving a link
 
 _*Games*_:
 -Trivia module (Quizz with Point counts)
