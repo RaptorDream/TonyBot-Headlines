@@ -4,7 +4,8 @@ _*Plateform*_: Discord VoIP client
 _*Language*_: Java
 _*Libraries*_: Java Discord API, Lavaplayer, JDA-Commands
 _*Developers*_: Raptor, comportment
-
+_*Bot Name*_: Tony
+_*Bot Prefix*_: ":"
 
 *Multi-purpose and complete* Discord BOT
 
@@ -66,6 +67,7 @@ _*Gaming*_:
 -OW champion stats API
 -OSU! player stats API
 -CS:GO player stats API
+-Twitch4J API
 
 
 _*Side modules*_:
