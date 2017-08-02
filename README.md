@@ -5,7 +5,7 @@ _*Language*_: Java
 _*Libraries*_: Java Discord API, Lavaplayer, JDA-Commands
 _*Developers*_: Raptor, comportment
 _*Bot Name*_: Tony
-_*Bot Prefix*_: ":"
+_*Bot Prefix*_: "tn!"           //":" rejected because typing it was also invoking discord literal emojis
 
 *Multi-purpose and complete* Discord BOT
 
