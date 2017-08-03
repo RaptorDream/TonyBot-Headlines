@@ -3,7 +3,7 @@
 _*Plateform*_: Discord VoIP client
 _*Language*_: Java
 _*Libraries*_: Java Discord API, Lavaplayer, JDA-Commands
-_*Developers*_: Raptor, comportment
+_*Developers*_: Raptor, comportment, CodeFromCirc
 _*Bot Name*_: Tony
 _*Bot Prefix*_: "tn!"           //":" rejected because typing it was also invoking discord literal emojis
 
