@@ -5,7 +5,7 @@ _*Language*_: Java
 _*Libraries*_: Java Discord API, Lavaplayer, JDA-Commands
 _*Developers*_: Raptor, comportment, CodeFromCirc
 _*Bot Name*_: Tony
-_*Bot Prefix*_: "tn!"           //":" rejected because typing it was also invoking discord literal emojis
+_*Bot Prefix*_: "tn."           // ":" rejected because typing it was also invoking discord literal emojis
 
 *Multi-purpose and complete* Discord BOT
 
@@ -20,6 +20,7 @@ _*MUSIC*_:
 -Video commmand that returns the youtube link corresponding to mentionned query(ies)/keyword(s)
 -Play a playlist related to a precise music style(rock, dubstep, trap, classic) , playlist already defined in the bot itself and updated by developers every week.
 -Play a playlist related to a precise mood(sad, concentrate, sport, gaming), playlist already defined in the bot itself, no need of frequent updates
+-Possibilty of handling music player in Direct Messages Groups
     *//Inside*
 -Pause/Resume music
 -Adjust music volume
@@ -90,11 +91,11 @@ _*For us, Developers*_:
 
 _*Caracteristics*_
 -Tons of embed messages
--*Later*: possibilty to self-host the bot with a GUI (basic) to help the user
+-*Later*: possibilty to self-host the bot with a GUI (basic) to help the user but remains a secondary option
 
 __**TODO**__
-1/Discuss the ideas above
-2/Think about a name for the bot
+1/Discuss the ideas above -> Most of them look good/possible
+2/Think about a name for the bot -> Done
 3/Establish alpha release date of the bot
 
 
